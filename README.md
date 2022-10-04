@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdullahialidev
 - 👀 I’m interested in software engineering and also blockchain
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me 
 - email:abdullahialidev@gmail.com

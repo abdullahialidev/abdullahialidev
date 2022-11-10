@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Node.js and MongoDB**
 
-- 🌱 I’m currently learning **JavaScript, MongoDB**
+- 🌱 I’m currently learning **How to add MVC to Full-Stack Applications, always refining my JavaScript knowledge, and MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://abdulalidev.netlify.app/](https://abdulalidev.netlify.app/)
 

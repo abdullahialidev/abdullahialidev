@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullahi Ali</h1>
-<h3 align="center">A passionate and talented full stack developer from Boston</h3>
+<h3 align="center">A passionate and talented software engineer interested who loves problem solving</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahialidev&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahialidev" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **How to add MVC to Full-Stack Applications, always refining my JavaScript knowledge, and MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://abdulalidev.netlify.app/](https://abdulalidev.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://abdullahi-ali.netlify.app/](https://abdullahi-ali.netlify.app/)
 
 - 💬 Ask me about **Anything :)**
 

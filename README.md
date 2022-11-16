@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdullahialidev" target="blank"><img src="https://img.shields.io/twitter/follow/abdullahialidev?logo=twitter&style=for-the-badge" alt="abdullahialidev" /></a> </p>
 
-- 🔭 I’m currently working on **Node.js and MongoDB**
+- 🔭 I’m currently working on **Node.js, MVC and MongoDB**
 
 - 🌱 I’m currently learning **How to add MVC to Full-Stack Applications, always refining my JavaScript knowledge, and MongoDB**
 

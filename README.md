@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/abdullahialidev" target="blank"><img src="https://img.shields.io/twitter/follow/abdullahialidev?logo=twitter&style=for-the-badge" alt="abdullahialidev" /></a> </p>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **React, in addition to building full-stack applications with Node.js, Express, and MongoDB**
+- 🌱 I’m currently learning **Flutter, in addition to building full-stack applications with Node.js, Express, React and MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://abdullahi-ali.netlify.app/](https://abdullahi-ali.netlify.app/)
 

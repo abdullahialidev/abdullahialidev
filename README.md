@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter, in addition to building full-stack applications with Node.js, Express, React and MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://abdullahi-ali.netlify.app/](https://abdullahi-ali.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://abdullahialidev.com/](https://abdullahialidev.com/)
 
 - 💬 Ask me about **Anything :)**
 
